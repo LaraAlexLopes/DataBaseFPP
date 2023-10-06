@@ -7,10 +7,10 @@
     {"nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numero": "(32) 99822-5733"}
   ],
   "pedido": [
-    {"fornecedor": "Boticário", "listaproduto": "********", "data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Natura", "listaproduto": "********", "data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Eudora", "listaproduto": "********", "data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Granado", "listaproduto": "********", "data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
+    {"fornecedor": "Boticário","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
+    {"fornecedor": "Natura","data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
+    {"fornecedor": "Eudora","data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
+    {"fornecedor": "Granado","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
   ],
   "produto": [
     {"produto": "L1", "capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400"},
