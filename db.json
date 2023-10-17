@@ -1,22 +1,21 @@
 
 {
   "fornecedores": [
-    {"nome": "Boticário", "cnpj": "11.137.051/0001-86", "email": "sac@boticario.com.br", "numero": "(99) 3642-7193"},
-    {"nome": "Natura", "cnpj": "71.673.990/0001-77", "email": "atendimento@atendimento.natura.net", "numero": "0800-011-5566"},
-    {"nome": "Eudora", "cnpj": "11.137.051/0406-41", "email": "sac@eudora.com.br", "numero": "0800 727 4535"},
-    {"nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numero": "(32) 99822-5733"}
+    {"id":"1","nome": "Boticário", "cnpj": "11.137.051/0001-86", "email": "sac@boticario.com.br", "numero": "(99) 3642-7193","logradouro":"Bernardo Mascaranhas","numero": "567","complemento":"Predio Administrativo","bairro":"Industrial","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"2","nome": "Natura", "cnpj": "71.673.990/0001-77", "email": "atendimento@atendimento.natura.net", "numero": "0800-011-5566","logradouro":" Rio Branco","numero": "128""complemento":"Prédio Bahamas","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"3","nome": "Eudora", "cnpj": "11.137.051/0406-41", "email": "sac@eudora.com.br", "numero": "0800 727 4535","logradouro":"Getúlio Vargas","numero": "98""complemento":"Digão","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"4","nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numero": "(32) 99822-5733","logradouro":"Brasil","numero": "789""complemento":"Creche Municipal","bairro":"Manoel Honório","cidade":"Juiz de Fora","Estado":"Minas Gerais"}
   ],
   "pedido": [
-    {"fornecedor": "Boticário","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Natura","data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Eudora","data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
-    {"fornecedor": "Granado","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
+    {"id":"1","produto": "Colônia Menta e Alecrim","valor":"R$300,00","quantidade":"20","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
+    {"id":"2","produto": "Perfume Tangerina","valor":"R$200,00","quantidade":"40","data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
+    {"id":"3","produto": "Sabonete de Sálvia","valor":"R$450,00","quantidade":"60","data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
+    {"id":"4","produto": "Perfume Versace","valor":"R$600,00","quantidade":"80","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
   ],
   "produto": [
-    {"produto": "L1", "capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400"},
-    {"produto": "L2", "capacidadeMaxima": "100",  "capacidadeMinima":  "150", "PontoRessuprimento": "200"},
-    {"produto": "L3", "capacidadeMaxima":  "300",  "capacidadeMinima":  "200", "PontoRessuprimento": "500"},
-    {"produto": "L4", "capacidadeMaxima":  "50",  "capacidadeMinima":  "50", "PontoRessuprimento": "400"},
-    {"produto": "L5", "capacidadeMaxima":  "30",  "capacidadeMinima":  "20", "PontoRessuprimento": "100"}
+    {"id":"1","produto": "Colônia Menta e Alecrim", "codigoBarras" : "00000000","quantidade" : "20", "lote" : "0000","validade":"03/26" ,"capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400","dataInicial" : "22/06/2003","dataFinal" : "22/06/2004"},
+    {"id":"2","produto": "Perfume Tangerina", "codigoBarras" : "11111111","quantidade" : "30", "lote" : "1111","validade":"04/26" ,"capacidadeMaxima": "100",  "capacidadeMinima":  "150", "PontoRessuprimento": "200","dataInicial" : "24/07/2003","dataFinal" : "24/07/2004"},
+    {"id":"3","produto": "Sabonete de Sálvia", "codigoBarras" : "22222222","quantidade" : "40", "lote" : "2222","validade":"05/26" ,"capacidadeMaxima":  "300",  "capacidadeMinima":  "200", "PontoRessuprimento": "500","dataInicial" : "26/08/2003","dataFinal" : "26/08/2004"},
+    {"id":"4","produto": "Perfume Versace", "codigoBarras" : "33333333","quantidade" : "50", "lote" : "3333","validade":"07/26" ,"capacidadeMaxima":  "50",  "capacidadeMinima":  "50", "PontoRessuprimento": "400","dataInicial" : "28/10/2003","dataFinal" : "28/10/2004"}
   ]
 }
