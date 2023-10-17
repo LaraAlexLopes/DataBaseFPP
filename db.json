@@ -1,10 +1,10 @@
 
 {
   "fornecedores": [
-    {"id":"1","nome": "Boticário", "cnpj": "11.137.051/0001-86", "email": "sac@boticario.com.br", "numero": "(99) 3642-7193","logradouro":"Bernardo Mascaranhas","numero": "567","complemento":"Predio Administrativo","bairro":"Industrial","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
-    {"id":"2","nome": "Natura", "cnpj": "71.673.990/0001-77", "email": "atendimento@atendimento.natura.net", "numero": "0800-011-5566","logradouro":" Rio Branco","numero": "128""complemento":"Prédio Bahamas","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
-    {"id":"3","nome": "Eudora", "cnpj": "11.137.051/0406-41", "email": "sac@eudora.com.br", "numero": "0800 727 4535","logradouro":"Getúlio Vargas","numero": "98""complemento":"Digão","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
-    {"id":"4","nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numero": "(32) 99822-5733","logradouro":"Brasil","numero": "789""complemento":"Creche Municipal","bairro":"Manoel Honório","cidade":"Juiz de Fora","Estado":"Minas Gerais"}
+    {"id":"1","nome": "Boticário", "cnpj": "11.137.051/0001-86", "email": "sac@boticario.com.br", "numeroTelefone": "(99) 3642-7193","logradouro":"Bernardo Mascaranhas","numero": "567","complemento":"Predio Administrativo","bairro":"Industrial","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"2","nome": "Natura", "cnpj": "71.673.990/0001-77", "email": "atendimento@atendimento.natura.net", "numeroTelefone": "0800-011-5566","logradouro":" Rio Branco","numero": "128","complemento":"Prédio Bahamas","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"3","nome": "Eudora", "cnpj": "11.137.051/0406-41", "email": "sac@eudora.com.br", "numeroTelefone": "0800 727 4535","logradouro":"Getúlio Vargas","numero": "98","complemento":"Digão","bairro":"Centro","cidade":"Juiz de Fora","Estado":"Minas Gerais"},
+    {"id":"4","nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numeroTelefone": "(32) 99822-5733","logradouro":"Brasil","numero": "789","complemento":"Creche Municipal","bairro":"Manoel Honório","cidade":"Juiz de Fora","Estado":"Minas Gerais"}
   ],
   "pedido": [
     {"id":"1","produto": "Colônia Menta e Alecrim","valor":"R$300,00","quantidade":"20","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
