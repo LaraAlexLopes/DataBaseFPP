@@ -7,10 +7,10 @@
     {"id":"4","nome": "Granado", "cnpj": "33.109.356/0001-17", "email": "sac@granado.com.br", "numeroTelefone": "(32) 99822-5733","logradouro":"Brasil","numero": "789","complemento":"Creche Municipal","bairro":"Manoel Honório","cidade":"Juiz de Fora","Estado":"Minas Gerais"}
   ],
   "pedido": [
-    {"id":"1","produto": "Colônia Menta e Alecrim","valor":"R$300,00","quantidade":"20","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
-    {"id":"2","produto": "Perfume Tangerina","valor":"R$200,00","quantidade":"40","data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
-    {"id":"3","produto": "Sabonete de Sálvia","valor":"R$450,00","quantidade":"60","data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
-    {"id":"4","produto": "Perfume Versace","valor":"R$600,00","quantidade":"80","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
+    {"id":"1","fornecedor": "Granado","valor":"R$300,00","quantidade":"20","data de pedido": "2023-02-03", "data de entrega": "2023-01-10"},
+    {"id":"2","fornecedor": "Boticário","valor":"R$200,00","quantidade":"40","data de pedido": "2023-11-03", "data de entrega": "2023-01-10"},
+    {"id":"3","fornecedor": "Natura","valor":"R$450,00","quantidade":"60","data de pedido": "2023-10-01", "data de entrega": "2023-01-10"},
+    {"id":"4","fornecedor": "Versace","valor":"R$600,00","quantidade":"80","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
   ],
   "produto": [
     {"id":"1","produto": "Colônia Menta e Alecrim", "codigoBarras" : "00000000","quantidade" : "20", "lote" : "0000","validade":"03/26" ,"capacidadeMaxima":  "200",  "capacidadeMinima":  "200", "PontoRessuprimento": "400","dataInicial" : "22/06/2003","dataFinal" : "22/06/2004"},
