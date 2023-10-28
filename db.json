@@ -13,9 +13,9 @@
     {"id":"4","fornecedor": "Versace","valor":"R$600,00","quantidade":"80","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
   ],
   "produto": [
-    {"id":"1","produto": "Colônia Menta e Alecrim","classificacao": "Colônia", "fragancia": "Menta e Alecrim"},
-    {"id":"2","produto": "Perfume Tangerina","classificacao": "Perfume", "fragancia": "Tangerina"},
-    {"id":"3","produto": "Sabonete de Sálvia", "classificacao": "Sabonete", "fragancia": "Sálvia"},
-    {"id":"4","produto": "Perfume Versace", "classificacao": "Perfume", "fragancia": "Versace"}
+    {"id":"1","produto": "Colônia Menta e Alecrim","classificacao": "Colônia", "fragrancia": "Menta e Alecrim"},
+    {"id":"2","produto": "Perfume Tangerina","classificacao": "Perfume", "fragrancia": "Tangerina"},
+    {"id":"3","produto": "Sabonete de Sálvia", "classificacao": "Sabonete", "fragrancia": "Sálvia"},
+    {"id":"4","produto": "Perfume Versace", "classificacao": "Perfume", "fragrancia": "Versace"}
   ]
 }
