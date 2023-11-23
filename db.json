@@ -13,9 +13,9 @@
     {"id":"4","fornecedor": "Versace","valor":"R$600,00","listaPedido":"Perfume Tangerina(120),Sabonete de Sálvia(60),Perfume Versace(20)","data de pedido": "2023-05-03", "data de entrega": "2023-01-10"}
   ],
   "produto": [
-    {"id":"1","produto": "Colônia Menta e Alecrim","classificacao": "Colônia", "fragrancia": "Menta e Alecrim"},
-    {"id":"2","produto": "Perfume Tangerina","classificacao": "Perfume", "fragrancia": "Tangerina"},
-    {"id":"3","produto": "Sabonete de Sálvia", "classificacao": "Sabonete", "fragrancia": "Sálvia"},
-    {"id":"4","produto": "Perfume Versace", "classificacao": "Perfume", "fragrancia": "Versace"}
+    {"id":"1","produto": "Colônia Menta e Alecrim","classificacao": "Colônia", "fragrancia": "Menta e Alecrim", "codigoBarras" : "0000"},
+    {"id":"2","produto": "Perfume Tangerina","classificacao": "Perfume", "fragrancia": "Tangerina", "codigoBarras" : "1111"},
+    {"id":"3","produto": "Sabonete de Sálvia", "classificacao": "Sabonete", "fragrancia": "Sálvia", "codigoBarras" : "2222"},
+    {"id":"4","produto": "Perfume Versace", "classificacao": "Perfume", "fragrancia": "Versace", "codigoBarras" : "3333"}
   ]
 }
