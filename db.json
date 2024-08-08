@@ -17,5 +17,8 @@
     {"id":"2","produto": "Perfume Tangerina","classificacao": "Perfume", "fragrancia": "Tangerina", "codigoBarras" : "1111"},
     {"id":"3","produto": "Sabonete de Sálvia", "classificacao": "Sabonete", "fragrancia": "Sálvia", "codigoBarras" : "2222"},
     {"id":"4","produto": "Perfume Versace", "classificacao": "Perfume", "fragrancia": "Versace", "codigoBarras" : "3333"}
-  ]
+  ],
+   "tipoPerda": [
+    {"descricao": "Quebra"},
+    {"descricao":"Vencimento"} ]
 }
